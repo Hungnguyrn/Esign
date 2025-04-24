@@ -11,13 +11,13 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://github.com/Hungnguyrn/Esign/raw/refs/heads/main/ESign_5.0.2_iPhone%20Distribution:%20Kotak%20Mahindra%20Bank%20Ltd.ipa</string>
+                    <string>https://github.com/Hungnguyrn/Esign/raw/refs/heads/main/Esign5.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>p3.xyz.yyyue.esign3</string>
+                <string>p3.xyz.yyyue.esign11</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
