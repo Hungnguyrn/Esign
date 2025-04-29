@@ -1,0 +1,14 @@
+game:GetService('StarterGui'):SetCore("DevConsoleVisible", true);
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/unified-naming-convention/NamingStandard/refs/heads/main/UNCCheckEnv.lua"))()
+
+while task.wait(5) do
+    local ok, err = pcall(function()
+        game:GetService("TeleportService"):Teleport(game.PlaceId, game:GetService("Players").LocalPlayer)
+    end)
+
+    if ok then
+        break;
+    end
+end
+
